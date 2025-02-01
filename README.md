@@ -33,7 +33,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/FileDrop.git
+[git clone https://github.com/YugBhanushali/FileDrop.git]
 ```
 
 2. Install dependencies for both the server and the client:
